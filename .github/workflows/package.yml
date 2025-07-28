@@ -9,7 +9,7 @@ on:
       platform:
         type: choice
         required: true
-        default: Windows-x64
+        default: Linux-x64
         options:
           - Windows-x64
           - Linux-x64
